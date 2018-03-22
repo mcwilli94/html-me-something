@@ -1,0 +1,51 @@
+
+
+p 
+{
+    font-size: 2rem;
+    padding-left: 80px;
+    padding-right: 80px;
+    }
+
+ul.Inu
+{
+    color: maroon;
+}
+
+ul.Geass
+{
+    color: purple;
+}
+
+ul.Fruits
+{
+    color: navy;
+}
+
+#Ghost
+{
+    color: blue;
+}
+
+h2 
+{
+    font-size: 3rem;
+}
+
+h1
+{
+    font-size: 3.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-image: url("images/banner.jpg")
+}
+
+ul
+{
+    font-size: 2rem;
+    margin-left: 80px;
+    margin-right: 80px;
+}
